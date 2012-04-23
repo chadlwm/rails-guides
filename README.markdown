@@ -2,8 +2,8 @@
 
 如果你也想为 Ruby on Rails 社区出一份力就从这里开始吧！
 
-http://www.railschina.org/
- 
+http://guides.ruby-china.org
+
 ## Rails Guides 中文
  
 Rails Guides 中文是由 [docrails](https://github.com/lifo/docrails) 中的 guides 修改而来，你可以在[这里](http://guides.rubyonrails.org) 找到官方的原版 Ruby on Rails Guides。Rails Guides 中文目前开源的共享在 [github](https://github.com/RubyChinaTranslation/rails-guides-china)上，你可以根据协议使用并且修改它，Rails Guides 中文希望能为任何热爱 Ruby on Rails 的朋友提供一个共享的文档平台，文章的作者对文章保有一切权利。
@@ -98,8 +98,11 @@ xxx包括以下关键字：
 
 由于没有照字母顺序排序的关系，建议你使用浏览器的搜索(`ctrl+F`, `cmd+F`)来寻找名词。
 
+* 英文数字与中文之间要留空格。
 
-###### 约定翻译的名词：
+
+
+** 约定翻译的名词：**
 
 <table>
 <tr>
@@ -232,7 +235,7 @@ xxx包括以下关键字：
 </tr>
 </table>
 
-###### 保留不译的名词：
+##### 保留不译的名词：
 
 ... 基本上 Rails、Ruby 有的特有名词，除了计算机科学中常见的词儿以外，在不造成读者困扰的情况下，尽量保持原汁原味。
 
@@ -303,7 +306,7 @@ xxx包括以下关键字：
 
 
 
-#### 生成
+##### 生成
 
 使用命令 
  
